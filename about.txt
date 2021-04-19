@@ -1,0 +1,22 @@
+========
+JUDUL
+========
+cupangindo.com
+
+
+=====
+tujuan
+=====
+platform jual beli cupang
+
+=====
+sasaran
+======
+peminat cupang 
+
+======
+
+- software
+- website
+    -create the ui
+- pwa ?
